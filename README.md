@@ -5,10 +5,6 @@ It is a project of detecting phishing websites which are main cause of cyber sec
 # Data Selection
 The dataset is downloaded from UCI machine learning repository.A collection of website URLs for 11000+ websites. Each sample has 30 website parameters and a class label identifying it as a phishing website or not (1 or -1).
 
-# Correlation with target variablee
-
-![corre](https://user-images.githubusercontent.com/73738015/101520789-f99d6f00-39aa-11eb-96f1-14e8f9c0fb42.JPG)
-
 # Accuracy Score
 
 Logistic Regression Accuracy: 0.9276454627675611  <br/>
