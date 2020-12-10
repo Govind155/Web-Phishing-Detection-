@@ -7,12 +7,7 @@ The dataset is downloaded from UCI machine learning repository.A collection of w
 
 # Accuracy Score
 
-Logistic Regression Accuracy: 0.9276454627675611  <br/>
-K-Nearest Neighbour Accuracy: 0.6343081097377148  <br/>
-Decision Tree Classifier Accuracy: 0.9487488694603557 <br/>
-Random Forest Classifier Accuracy: 0.9719626168224299 <br/>
-support Vector Machine Accuracy: 0.5604461863129334 <br/>
-Adaboost Classifier Accuracy: 0.9104612601748568<br/>
-XGBoost Accuracy: 0.9472414832680133
+![imageonline-co-stackedbarchart](https://user-images.githubusercontent.com/73738015/101747642-b994d400-3af1-11eb-8904-71c0634132cb.png)
+
 
  
