@@ -18,5 +18,7 @@ This data set comes under classification problem, as the input URL is classified
 ![imageonline-co-stackedbarchart](https://user-images.githubusercontent.com/73738015/102687445-25272180-4215-11eb-83ba-260e92bbfa18.png)
 
 ## End Results
-From all the models we developed , Random Forest accuracy has highest accuracy 96.54% and followed by Decision Tree(94.91%) and XGBoost(94.86%). Lowest accuracy model is Adaboost (91.42)
+From all the models we developed,
+- Best accuracy score - 96.5% using Random forest method
+- Worst accuract score - 91.4% using Adaboost method
  
