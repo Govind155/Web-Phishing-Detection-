@@ -5,7 +5,7 @@ Phishing attack is used to steal confidential information of a user. Fraud websi
 The dataset is downloaded from UCI machine learning repository.A collection of website URLs for 11000 websites. Each sample has 30 website parameters and a class label identifying it as a phishing website or not (1 or -1).
 
 ## Models & Training
-Before stating the ML model training, the data is split into 60-40 i.e., 6600 training samples & 4400 testing samples. From the dataset, it is clear that this is a supervised machine learning task. <br/> 
+Before stating the ML model training, the data is split into 60-40 i.e., 6600 training samples & 4400 testing samples. From the dataset, it is clear that this is a supervised machine learning task. <br/> <br/> 
 This data set comes under classification problem, as the input URL is classified as phishing (1) or legitimate (0). The supervised machine learning models (classification) considered to train the dataset in this project are:  
 - Logistic Regression  
 - K-Nearest Neighbour   
