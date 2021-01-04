@@ -19,6 +19,6 @@ This data set comes under classification problem, as the input URL is classified
 
 ## End Results
 From all the models we developed,
-- Best accuracy score - 96.5% using Random forest method
-- Worst accuract score - 91.4% using Adaboost method
+- Highest accuracy score - 96.5% using Random forest method
+- Lowest accuract score - 91.4% using Adaboost method
  
